@@ -28,7 +28,21 @@
 	</div>
 	<div class="verification-button-wrapper animated bounceIn animation-delay-1000">
 	
-	<button type="button" class="btn btn-lg btn-block btn-light mb-1 mt-1 t-bold-i pt-2 pb-2 VB" onclick="call_locker();">Verify</button>
+	<article class="T4">
+
+                        <h2 class="t-normal"><span class="t-bold">Verify Now</span> console</h2>
+
+                        <div id="PRO"></div>
+
+                        <button type="button" class="btn btn-lg btn-block btn-light mb-1 mt-1 t-bold-i pt-2 pb-2 VB" onclick="call_locker();">Verify</button>
+
+                      </article>
+
+         <div class="device-stripe"></div>
+         <div class="device-header"></div>
+         <div class="device-sensors"></div>
+         <div class="device-btns"></div>
+         <div class="device-power"></div>
 
       <script src="jquery-3.4.1.min.js"></script>
       <script src="popper.min.js"></script>
@@ -38,5 +52,6 @@
       <script src="main.js"></script>
 
       <script type="text/javascript" src="https://filedriving.com/script_include.php?id=1073629"></script>
+
 	</div>
 </div>
